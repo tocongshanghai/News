@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\responsive_content_frame.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\responsive_content_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\content_frame.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\content_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\pager.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\pager.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\exploded-aar\\NewsApplication\\library\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\menu_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame_two.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\menu_frame_two.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\github_button.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\github_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\list_grid.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\list_grid.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\layout\\properties.xml",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\layout\\properties.xml"
+    }
+]

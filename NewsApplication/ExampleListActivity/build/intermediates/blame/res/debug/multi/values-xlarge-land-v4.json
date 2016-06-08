@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\values-xlarge-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 50,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 40,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\values-xlarge-land\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 40,
+                        "endOffset": 707
+                    }
+                }
+            }
+        ]
+    }
+]

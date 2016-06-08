@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:3:5-54
+	android:versionName
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml
+		INJECTED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:7:5-9:41
+MERGED from [NewsApplication:library:unspecified] D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\build\intermediates\exploded-aar\NewsApplication\library\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:11:22-64
+application
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:13:5-42:19
+	android:label
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:16:9-44
+activity#com.jeremyfeinstein.slidingmenu.example.ExampleListActivity
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:18:9-27:20
+	android:configChanges
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:20:13-72
+	android:uiOptions
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:21:13-57
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:19:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:25:27-74
+activity#com.jeremyfeinstein.slidingmenu.example.PropertiesActivity
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:28:9-56
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:28:19-53
+activity#com.jeremyfeinstein.slidingmenu.example.LeftAndRightActivity
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:29:19-55
+activity#com.jeremyfeinstein.slidingmenu.example.AttachExample
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:30:9-51
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:30:19-48
+activity#com.jeremyfeinstein.slidingmenu.example.anim.CustomScaleAnimation
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:31:9-63
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:31:19-60
+activity#com.jeremyfeinstein.slidingmenu.example.anim.CustomZoomAnimation
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:32:9-62
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:32:19-59
+activity#com.jeremyfeinstein.slidingmenu.example.anim.CustomRotateAnimation
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:33:19-61
+activity#com.jeremyfeinstein.slidingmenu.example.anim.CustomSlideAnimation
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:34:9-63
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:34:19-60
+activity#com.jeremyfeinstein.slidingmenu.example.SlidingTitleBar
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:35:9-53
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:35:19-50
+activity#com.jeremyfeinstein.slidingmenu.example.SlidingContent
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:36:19-49
+activity#com.jeremyfeinstein.slidingmenu.example.ViewPagerActivity
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:37:9-55
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:37:19-52
+activity#com.jeremyfeinstein.slidingmenu.example.fragments.FragmentChangeActivity
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:38:9-70
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:38:19-67
+activity#com.jeremyfeinstein.slidingmenu.example.fragments.ResponsiveUIActivity
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:39:9-68
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:39:19-65
+activity#com.jeremyfeinstein.slidingmenu.example.fragments.BirdActivity
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:40:9-60
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:40:19-57
+activity#com.crittercism.NotificationActivity
+ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:41:9-73
+	android:name
+		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:41:19-70

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\indicator.png",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\drawable-ldpi\\indicator.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_github.png",
+        "source": "D:\\AndroidWorkSpace\\AndroidStudio\\News\\NewsApplication\\ExampleListActivity\\res\\drawable-ldpi\\ic_action_github.png"
+    }
+]
