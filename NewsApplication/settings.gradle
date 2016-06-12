@@ -1,1 +1,1 @@
-include ':app', ':smartnews', ':library', ':ExampleListActivity'
+include ':app', ':smartnews', ':library', ':ExampleListActivity', ':XUtilsLibrary'

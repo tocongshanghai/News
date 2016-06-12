@@ -9,7 +9,7 @@ import com.tocong.smartnews.R;
  */
 public class LeftMenuFragment extends  BaseFragment {
     @Override
-    public View initView() {
+    public View initViews() {
         View view=  View.inflate(mActivity, R.layout.fragment_leftmenu,null);
         return view;
     }

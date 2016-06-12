@@ -22,17 +22,17 @@ public abstract class BaseFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return  initView();
+        return  initViews();
     }
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        initDate();
+        initData();
     }
 
-    public abstract  View initView();
-    public  void initDate(){
+    public abstract  View initViews();
+    public  void initData(){
 
 
     }
