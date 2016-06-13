@@ -20,7 +20,7 @@ public class SmartServicePager extends BasePager {
     public void initData() {
         super.initData();
 
-        System.out.println("初始化++++++智慧服务");
+        System.out.println("正在初始化++++++智慧服务");
         mTVTitle.setText("生活");
         setSlidingMenuEnable(true);
         mIBMenu.setVisibility(View.GONE);

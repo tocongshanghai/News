@@ -19,7 +19,7 @@ public class HomePager extends BasePager {
     @Override
     public void initData() {
         super.initData();
-        System.out.println("初始化++++++首页");
+        System.out.println("正在初始化++++++首页");
         mTVTitle.setText("智慧新闻");
         setSlidingMenuEnable(false);
         mIBMenu.setVisibility(View.GONE);

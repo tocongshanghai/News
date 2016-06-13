@@ -19,7 +19,7 @@ public class SettingPager extends BasePager{
     @Override
     public void initData() {
         super.initData();
-        System.out.println("初始化数据++++++设置");
+        System.out.println("正在初始化数据++++++设置");
 
 
         mTVTitle.setText("设置");

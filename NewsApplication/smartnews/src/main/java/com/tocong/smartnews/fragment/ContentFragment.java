@@ -132,4 +132,12 @@ public class ContentFragment extends BaseFragment {
             return view == object;
         }
     }
+
+    /*
+    * 获取新闻中心的页面
+    * */
+    public  NewsCenterPager getNewsCenterPager(){
+
+        return (NewsCenterPager) mPagerList.get(1);
+    }
 }
