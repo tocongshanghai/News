@@ -2,6 +2,7 @@ package com.tocong.smartnews.base.impl;
 
 import android.app.Activity;
 import android.os.Message;
+import android.widget.Toast;
 
 import com.google.gson.Gson;
 import com.tocong.smartnews.MainActivity;
@@ -37,7 +38,14 @@ public class NewsCenterPager extends BasePager {
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
             if (msg.what == 200) {
-                parseData(msg.obj.toString());
+                if(msg.obj.equals("101")){
+                    Toast.makeText(mActivity,"网络延迟，请稍后再试",Toast.LENGTH_LONG).show();
+                }
+                else if(msg.obj.equals("102")){
+                    Toast.makeText(mActivity,"数据异常，请稍后再试",Toast.LENGTH_LONG).show();
+                }else {
+                    parseData(msg.obj.toString());
+                }
 
             }
         }
@@ -82,11 +90,13 @@ public class NewsCenterPager extends BasePager {
                 try {
                     result = NetWorkUtils.getMethod(GlobalContants.CATEGORIES_URL);
                     System.out.println("返回结果++++: " + result);
+
                     Message message = new Message();
                     message.obj = result;
                     message.what = 200;
                     handler.sendMessage(message);
                 } catch (IOException e) {
+                    System.out.println("++++++++++++输入异常");
                     e.printStackTrace();
                 }
 
@@ -109,7 +119,7 @@ public class NewsCenterPager extends BasePager {
 
         //准备四个菜单性情页
         mbaseMenuDetailPagersList = new ArrayList<BaseMenuDetailPager>();
-        mbaseMenuDetailPagersList.add(new NewsMenuDetailPager(mActivity));
+        mbaseMenuDetailPagersList.add(new NewsMenuDetailPager(mActivity,mNewsData.data.get(0).children));
         mbaseMenuDetailPagersList.add(new TopicMenuDetailPager(mActivity));
         mbaseMenuDetailPagersList.add(new PhotoMenuDetailPager(mActivity));
         mbaseMenuDetailPagersList.add(new InteractMenuDetailPager(mActivity));
