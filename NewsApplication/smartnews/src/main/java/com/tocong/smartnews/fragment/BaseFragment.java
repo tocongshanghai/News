@@ -8,6 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+//import android.support.v4.app.Fragment;
+
 /**
  * Created by tocong on 2016/6/8.
  */

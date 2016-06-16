@@ -16,6 +16,7 @@ ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListAct
 uses-sdk
 ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:7:5-9:41
 MERGED from [NewsApplication:library:unspecified] D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\build\intermediates\exploded-aar\NewsApplication\library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:9:9-38
 	android:minSdkVersion
@@ -26,6 +27,7 @@ ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListAct
 		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:11:22-64
 application
 ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:13:5-42:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from D:\AndroidWorkSpace\AndroidStudio\News\NewsApplication\ExampleListActivity\AndroidManifest.xml:15:9-41
 	android:icon
