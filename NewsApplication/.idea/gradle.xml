@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ExampleListActivity" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicatorLibrary" />
             <option value="$PROJECT_DIR$/XUtilsLibrary" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/library" />
@@ -19,6 +20,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ExampleListActivity" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicatorLibrary" />
             <option value="$PROJECT_DIR$/XUtilsLibrary" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/library" />

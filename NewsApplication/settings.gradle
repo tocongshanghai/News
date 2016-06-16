@@ -1,1 +1,1 @@
-include ':app', ':smartnews', ':library', ':ExampleListActivity', ':XUtilsLibrary'
+include ':app', ':smartnews', ':library', ':ExampleListActivity', ':XUtilsLibrary', ':ViewPagerIndicatorLibrary'
