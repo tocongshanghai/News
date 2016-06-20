@@ -20,7 +20,7 @@ public class BasePager {
     public TextView mTVTitle;  //标题
     public FrameLayout mFLContent; //内容
     public ImageButton mIBMenu; //菜单按钮
-
+public  ImageButton btnPhoto;
     public BasePager(Activity mActivity) {
         this.mActivity = mActivity;
         initViews();
@@ -35,12 +35,14 @@ public class BasePager {
         mTVTitle= (TextView) mVRootView.findViewById(R.id.tv_title);
         mFLContent= (FrameLayout) mVRootView.findViewById(R.id.fl_content);
         mIBMenu= (ImageButton) mVRootView.findViewById(R.id.btn_menu);
+        btnPhoto= (ImageButton) mVRootView.findViewById(R.id.btn_photo);
         mIBMenu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 toggleSlidingMenu();
             }
         });
+
     }
 
     /*

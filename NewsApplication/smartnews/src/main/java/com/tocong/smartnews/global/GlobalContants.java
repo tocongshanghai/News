@@ -7,5 +7,5 @@ package com.tocong.smartnews.global;
 public class GlobalContants {
     public static final String SERVER_URL = "http://172.20.10.9:8080/zhbj";
     public static final String CATEGORIES_URL = SERVER_URL + "/categories.json"; //获取分类信息接口
-
+    public static final String PHOTO_URL=SERVER_URL+"/photos/photos_1.json";
 }
