@@ -94,6 +94,19 @@ public class TabDetailPager extends BaseMenuDetailPager implements ViewPager.OnP
                     parseData((String) msg.obj, true);
                     lvList.onRefreshComplete(true);
                 }
+            }else  if(msg.what==202){
+                int currentItem=mViewPager.getCurrentItem();
+                if(currentItem<mTopNewsList.size()-1){
+
+                    currentItem++;
+                }else {
+                    currentItem=0;
+                }
+
+                mViewPager.setCurrentItem(currentItem);
+                Message message=new Message();
+                message.what=202;
+                handler.sendMessageDelayed(message,3000);
             }
         }
     };
@@ -241,6 +254,10 @@ public class TabDetailPager extends BaseMenuDetailPager implements ViewPager.OnP
                 lvList.setAdapter(mNewsAdapter);
 
             }
+
+            Message message=new Message();
+            message.what=202;
+            handler.sendMessageDelayed(message,3000);
 
         } else {
             ArrayList<TabData.TabNewsData> news = mTabDetailData.data.news;
